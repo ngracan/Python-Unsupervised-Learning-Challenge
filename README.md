@@ -17,7 +17,7 @@ The provided CSV file contains the price change data of cryptocurrencies in diff
 
 ### Elbow Curve's comparison using original data vs using the Principal Component Analysis (PCA) data:
 
-![](ElbowCurve's.png)
+![](Elbow_Curve's.png)
 
 ### Cluster's comparison using original data vs using the Principal Component Analysis (PCA) data:
 
